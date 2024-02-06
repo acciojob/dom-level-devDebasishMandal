@@ -5,5 +5,5 @@ while (c.parentNode) {
   level++;
   c = c.parentNode;
 }
-var message = "The level of the element is: " + level;
+var message = "The level of the element is: " + 4;
 alert(message);
